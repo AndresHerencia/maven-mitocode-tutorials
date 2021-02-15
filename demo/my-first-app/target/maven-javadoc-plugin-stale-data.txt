@@ -1,0 +1,49 @@
+/usr/lib/jvm/java-11-openjdk-amd64/bin/javadoc
+@options
+@packages
+--class-path
+'/home/andresg/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/andresg/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/src/main/java:/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-first-app 3 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'my-first-app 3 API'
+com.andresg.model
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/src/main/java = 1613250497969
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/generated-sources/annotations = 1613425222469
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/type-search-index.zip = 1613425226605
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/overview-tree.html = 1613425226589
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/allclasses-index.html = 1613425226613
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/element-list = 1613425226561
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/index.html = 1613425226621
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/type-search-index.js = 1613425226605
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/allclasses.html = 1613425226617
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/deprecated-list.html = 1613425226617
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/allpackages-index.html = 1613425226613
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/index-all.html = 1613425226605
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/stylesheet.css = 1613425226625
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/script.js = 1613425226625
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/member-search-index.js = 1613425226605
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/search.js = 1613425226629
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/member-search-index.zip = 1613425226605
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/constant-values.html = 1613425226573
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/package-search-index.js = 1613425226601
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/help-doc.html = 1613425226625
+/home/andresg/Documents/Maven/maven-tutos/demo/my-first-app/target/site/fr/apidocs/package-search-index.zip = 1613425226605
